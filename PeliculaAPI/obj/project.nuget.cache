@@ -1,13 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "gLgzFDrjCzTaiH42UNAC/oZtDivGULBlkOiaLWlDWkypctUoZrU7Gm2bwef8NAo5WnxUUV97apxIf9hjTMyAYw==",
+  "dgSpecHash": "A2IvIC9jew5bdC6iM/RsWqmfuj/yC9ckgsTSQOA7OGHfduvyw8KKmHuxnhah9R++Y4TOMvFFTu/C60tfnJfexA==",
   "success": true,
-  "projectFilePath": "E:\\Datos2\\New\\PeliculaAPI\\PeliculaAPI\\PeliculaAPI.csproj",
+  "projectFilePath": "C:\\Users\\jjona\\OneDrive\\Escritorio\\Workspace\\NetCore\\API\\PeliculaAPI\\PeliculaAPI\\PeliculaAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jjona\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\jjona\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\jjona\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
     "C:\\Users\\jjona\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.0.1\\microsoft.data.sqlclient.sni.runtime.2.0.1.nupkg.sha512",
+    "C:\\Users\\jjona\\.nuget\\packages\\microsoft.dependencyvalidation.analyzers\\0.11.0\\microsoft.dependencyvalidation.analyzers.0.11.0.nupkg.sha512",
     "C:\\Users\\jjona\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.0\\microsoft.entityframeworkcore.5.0.0.nupkg.sha512",
     "C:\\Users\\jjona\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.0\\microsoft.entityframeworkcore.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\jjona\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\5.0.0\\microsoft.entityframeworkcore.analyzers.5.0.0.nupkg.sha512",

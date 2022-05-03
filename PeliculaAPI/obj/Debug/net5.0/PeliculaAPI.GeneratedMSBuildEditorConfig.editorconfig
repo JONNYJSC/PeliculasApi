@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = PeliculaAPI
-build_property.ProjectDir = E:\Datos2\New\PeliculaAPI\PeliculaAPI\
+build_property.ProjectDir = C:\Users\jjona\OneDrive\Escritorio\Workspace\NetCore\API\PeliculaAPI\PeliculaAPI\

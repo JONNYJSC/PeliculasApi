@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Datos2\\New\\PeliculaAPI\\PeliculaAPI\\PeliculaAPI.csproj": {}
+    "C:\\Users\\jjona\\OneDrive\\Escritorio\\Workspace\\NetCore\\API\\PeliculaAPI\\PeliculaAPI\\PeliculaAPI.csproj": {}
   },
   "projects": {
-    "E:\\Datos2\\New\\PeliculaAPI\\PeliculaAPI\\PeliculaAPI.csproj": {
+    "C:\\Users\\jjona\\OneDrive\\Escritorio\\Workspace\\NetCore\\API\\PeliculaAPI\\PeliculaAPI\\PeliculaAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Datos2\\New\\PeliculaAPI\\PeliculaAPI\\PeliculaAPI.csproj",
+        "projectUniqueName": "C:\\Users\\jjona\\OneDrive\\Escritorio\\Workspace\\NetCore\\API\\PeliculaAPI\\PeliculaAPI\\PeliculaAPI.csproj",
         "projectName": "PeliculaAPI",
-        "projectPath": "E:\\Datos2\\New\\PeliculaAPI\\PeliculaAPI\\PeliculaAPI.csproj",
+        "projectPath": "C:\\Users\\jjona\\OneDrive\\Escritorio\\Workspace\\NetCore\\API\\PeliculaAPI\\PeliculaAPI\\PeliculaAPI.csproj",
         "packagesPath": "C:\\Users\\jjona\\.nuget\\packages\\",
-        "outputPath": "E:\\Datos2\\New\\PeliculaAPI\\PeliculaAPI\\obj\\",
+        "outputPath": "C:\\Users\\jjona\\OneDrive\\Escritorio\\Workspace\\NetCore\\API\\PeliculaAPI\\PeliculaAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -43,6 +43,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.DependencyValidation.Analyzers": {
+              "target": "Package",
+              "version": "[0.11.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[5.0.0, )"
