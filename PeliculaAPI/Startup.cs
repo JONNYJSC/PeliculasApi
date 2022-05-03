@@ -33,10 +33,10 @@ namespace PeliculaAPI
             {
                 options.AddPolicy(name: _MyCors, builder =>
                 {
-                    //builder.WithOrigins("localhost"); // este si es para dominio ejemplo: www.example.com
-                    builder.SetIsOriginAllowed(origin => new Uri(origin).Host == "localhost")
-                    .AllowAnyHeader()
-                    .AllowAnyMethod();
+                    builder.WithOrigins("https://pelicula-api.herokuapp.com"); // este si es para dominio ejemplo: www.example.com
+                    //builder.SetIsOriginAllowed(origin => new Uri(origin).Host == "localhost")
+                    //.AllowAnyHeader()
+                    //.AllowAnyMethod();
                 });
             });
 
